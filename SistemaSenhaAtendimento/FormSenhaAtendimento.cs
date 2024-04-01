@@ -36,10 +36,12 @@ namespace SistemaSenhaAtendimento
             if (preferencialQueue.Count > 0)
             {
                 label3.Text = "Senha: " + preferencialQueue.Dequeue();
+                currentSenhaPref.Text = preferencialQueue.Count > 0 ? preferencialQueue.Peek() : "PXXX";
             }
             else if (normalQueue.Count > 0)
             {
                 label3.Text = "Senha: " + normalQueue.Dequeue();
+                currentNumber.Text = normalQueue.Count > 0 ? normalQueue.Peek() : "NXXX";
             }
             else
             {

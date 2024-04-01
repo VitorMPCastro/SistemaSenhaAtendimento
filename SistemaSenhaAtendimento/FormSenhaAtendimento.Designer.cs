@@ -63,9 +63,9 @@
             currentNumber.Location = new Point(298, 195);
             currentNumber.Name = "currentNumber";
             currentNumber.RightToLeft = RightToLeft.No;
-            currentNumber.Size = new Size(31, 19);
+            currentNumber.Size = new Size(54, 19);
             currentNumber.TabIndex = 6;
-            currentNumber.Text = "XX";
+            currentNumber.Text = "NXXX";
             currentNumber.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // BTN_senhaPref
@@ -91,9 +91,9 @@
             currentSenhaPref.Location = new Point(466, 195);
             currentSenhaPref.Name = "currentSenhaPref";
             currentSenhaPref.RightToLeft = RightToLeft.No;
-            currentSenhaPref.Size = new Size(31, 19);
+            currentSenhaPref.Size = new Size(51, 19);
             currentSenhaPref.TabIndex = 6;
-            currentSenhaPref.Text = "XX";
+            currentSenhaPref.Text = "PXXX";
             currentSenhaPref.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label1
@@ -130,9 +130,9 @@
             label3.Location = new Point(347, 33);
             label3.Name = "label3";
             label3.RightToLeft = RightToLeft.No;
-            label3.Size = new Size(88, 19);
+            label3.Size = new Size(110, 19);
             label3.TabIndex = 6;
-            label3.Text = "Senha: XX";
+            label3.Text = "Senha: XXXX";
             label3.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // BTN_chamarSenha
