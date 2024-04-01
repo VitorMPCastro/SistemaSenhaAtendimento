@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaSenhaAtendimento", "SistemaSenhaAtendimento\SistemaSenhaAtendimento.csproj", "{926648B8-8A10-44B8-AD01-E3A78781F3AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{926648B8-8A10-44B8-AD01-E3A78781F3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{926648B8-8A10-44B8-AD01-E3A78781F3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{926648B8-8A10-44B8-AD01-E3A78781F3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{926648B8-8A10-44B8-AD01-E3A78781F3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {057F9FE8-1815-428D-80EC-66CB9480AE82}
+	EndGlobalSection
+EndGlobal
